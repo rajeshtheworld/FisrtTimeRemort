@@ -4,7 +4,7 @@ public class Fibo {
 
 	public static void main(String[] args) {
 System.out.println("Enter any number to fibonac series");
-System.out.println("Enter any number to fibonac series");
+
 
 Scanner in = new Scanner(System.in);
 int num= in.nextInt();
